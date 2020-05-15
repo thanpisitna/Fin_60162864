@@ -1,0 +1,2 @@
+id, name, gpax, phone, gender
+60162864 thanpisit nakrit 2.47 0622149731 male fb and id thanpisit 

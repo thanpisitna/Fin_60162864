@@ -1,0 +1,2 @@
+year, term, id, name, grade
+2020 1 ICT60-374 c programming 2.50
